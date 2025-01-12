@@ -4,7 +4,7 @@
 [![Codecov](https://img.shields.io/codecov/c/github/dyarleniber/react-workflow-gh-actions)](https://codecov.io/gh/dyarleniber/react-workflow-gh-actions)
 ![License](https://img.shields.io/github/license/dyarleniber/react-workflow-gh-actions)
 
-In this tutorial, I'm going to show you how to create a simple workflow that I use on my personal projects with React.
+In this tutorial help, I'm going to show you how to create a simple workflow that I use on my personal projects with React.
 
 This workflow created on [GitHub Actions](https://github.com/features/actions) will be responsible for automatically test the source code, generate a test coverage report and upload it on [Codecov](https://codecov.io), build and deploy the project on [GitHub Pages](https://pages.github.com). All these jobs are activated by a push or pull request event on master branch.
 
